@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\epic\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\epic\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|c:\\users\\saifa\\downloads\\cs\\event\\epic\\epic\\epic\\addinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\addinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\epic\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\epic\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\epic\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\epic\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\epic\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|c:\\users\\saifa\\downloads\\cs\\event\\epic\\epic\\epic\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\epic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F5A5826-0997-4C08-A5F6-68E8EC2DB7C0}|Epic\\Epic.csproj|solutionrelative:epic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Register.cs",
+              "RelativeDocumentMoniker": "Epic\\Register.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Register.cs [Design]",
+              "RelativeToolTip": "Epic\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:28:55.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Form1.cs",
+              "RelativeDocumentMoniker": "Epic\\Form1.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Form1.cs [Design]",
+              "RelativeToolTip": "Epic\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:36:42.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminProfile.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\AdminProfile.cs",
+              "RelativeDocumentMoniker": "Epic\\AdminProfile.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\AdminProfile.cs",
+              "RelativeToolTip": "Epic\\AdminProfile.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:53:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Admin.cs",
+              "RelativeDocumentMoniker": "Epic\\Admin.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Admin.cs [Design]",
+              "RelativeToolTip": "Epic\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:09:40.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Admin.cs",
+              "RelativeDocumentMoniker": "Epic\\Admin.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Admin.cs",
+              "RelativeToolTip": "Epic\\Admin.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAArwDIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:09:50.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Store.cs",
+              "RelativeDocumentMoniker": "Epic\\Store.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Store.cs",
+              "RelativeToolTip": "Epic\\Store.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAxwBUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:47:15.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Register.cs",
+              "RelativeDocumentMoniker": "Epic\\Register.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Register.cs",
+              "RelativeToolTip": "Epic\\Register.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAjwG8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:52:27.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddingGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\AddingGame.cs",
+              "RelativeDocumentMoniker": "Epic\\AddingGame.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\AddingGame.cs [Design]",
+              "RelativeToolTip": "Epic\\AddingGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:39:04.756Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Store.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Store.cs",
+              "RelativeDocumentMoniker": "Epic\\Store.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\Store.cs [Design]",
+              "RelativeToolTip": "Epic\\Store.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:50:30.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\AdminProfile.cs",
+              "RelativeDocumentMoniker": "Epic\\AdminProfile.cs",
+              "ToolTip": "C:\\Users\\saifa\\Downloads\\cs\\event\\Epic\\Epic\\Epic\\AdminProfile.cs [Design]",
+              "RelativeToolTip": "Epic\\AdminProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:50:38.161Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
